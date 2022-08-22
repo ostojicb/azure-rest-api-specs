@@ -45,6 +45,7 @@
             }
           },
           "default": {
+            "schema":{},
             "description": "*** Error Responses: ***\n\n * 404 SubscriptionDoesNotHaveServer - The requested server was not found\n\n * 404 ServerNotInSubscriptionResourceGroup - Specified server does not exist in the specified resource group and subscription."
           }
         },
@@ -94,6 +95,7 @@
             }
           },
           "default": {
+            "schema":{},
             "description": "*** Error Responses: ***\n\n * 404 ResourceNotFound - The requested resource was not found.\n\n * 404 SubscriptionDoesNotHaveServer - The requested server was not found\n\n * 404 ServerNotInSubscriptionResourceGroup - Specified server does not exist in the specified resource group and subscription."
           }
         },
