@@ -465,7 +465,6 @@ input-file:
 - ./Microsoft.Sql/preview/2020-11-01-preview/ManagedDatabaseColumns.json
 - ./Microsoft.Sql/preview/2020-11-01-preview/ManagedDatabaseQueries.json
 - ./Microsoft.Sql/preview/2020-11-01-preview/ManagedDatabaseRestoreDetails.json
-- ./Microsoft.Sql/preview/2020-11-01-preview/ManagedDatabases.json
 - ./Microsoft.Sql/preview/2020-11-01-preview/ManagedDatabaseSchemas.json
 - ./Microsoft.Sql/preview/2020-11-01-preview/ManagedDatabaseSecurityAlertPolicies.json
 - ./Microsoft.Sql/preview/2020-11-01-preview/ManagedDatabaseSecurityEvents.json
@@ -544,6 +543,7 @@ input-file:
 - ./Microsoft.Sql/preview/2022-02-01-preview/ManagedDatabaseAdvancedThreatProtectionSettings.json
 - ./Microsoft.Sql/preview/2022-02-01-preview/ManagedInstanceAdvancedThreatProtectionSettings.json
 - ./Microsoft.Sql/preview/2022-02-01-preview/ReplicationLinks.json
+- ./Microsoft.Sql/preview/2022-02-01-preview/ManagedDatabases.json
 
 
 # Needed when there is more than one input file
